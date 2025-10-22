@@ -42,7 +42,7 @@ Ensure **GDAL** is properly installed and linked for geospatial support.
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/fastbite.git
+git clone https://github.com/AppRonin/fastbite.git
 cd fastbite
 
 # Setup virtual environment
